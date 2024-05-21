@@ -4,3 +4,4 @@ __pycache__/
 dist/
 autoviz.egg-info/
 build/
+ga4_response_example.json
